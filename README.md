@@ -1,9 +1,9 @@
 # Go Messaging Patterns
 
-This repo is to track and explore [Messaging Patterns]() in Go. 
+This repo is to track and explore [Messaging Patterns](http://tmrts.com/go-patterns/#messaging-patterns) in Go. 
 
 With the mass exodus of software from Monolithic to Micro-service systems, 
-messaging or [event driven architecture]() is a huge space at the moment. How does
+messaging or [event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) is a huge space at the moment. How does
 one deal with the complexity of such a change? Well a good start is to study the
 patterns and pitfalls that have come from implementing such systems in the past,
 learning from these patterns enables us to build more resilient software from 
