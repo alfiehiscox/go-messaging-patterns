@@ -11,7 +11,7 @@ day 1.
 
 Inside this repo you will find implementations of such patterns written in Go.
 A list of patterns (to be updated as we go along) can be found below. Each pattern 
-is it's own go module, and all modules live in a workspace that you can interact
+is it's own go package, and all packages live in a Go Module that you can interact
 with as you choose. 
 
 Many, if not all, of the modules will contain a HOWTO.md file that will walk 
